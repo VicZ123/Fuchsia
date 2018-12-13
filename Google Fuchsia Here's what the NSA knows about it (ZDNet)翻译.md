@@ -40,7 +40,7 @@
 
 ​	Home Hub是一种新型的物联网设备，它本质上是一个7英寸触摸屏。它包括一个全距离扬声器，一个光传感器，和两个远场麦克风，不包括摄像机。但是，在底层上，它将使用Amlogic S905D2的CPU，而不是高通SD 624 SoC。
 
- 	一些人在*9to5Google*疯狂报道Fuchsia，并且不断挖掘GoogleHome Hub的源代码。他们发现了Fuchsia的踪迹。这意味着Home Hub可能会在圣诞时就会运行着Fuchsia！
+​	一些人在*9to5Google*疯狂报道Fuchsia，并且不断挖掘GoogleHome Hub的源代码。他们发现了Fuchsia的踪迹。这意味着Home Hub可能会在圣诞时就会运行着Fuchsia！
 
 ​	不过根据国安局的发现，Fuchsia还有很多问题。但是，如果你想体验Fuchsia，新的Home Hub是值得期待的。
 
